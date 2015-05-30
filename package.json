@@ -1,6 +1,6 @@
 {
   "name": "filter-functions",
-  "description": "Filter an object to have only properties with function values, or an array to have only function values.",
+  "description": "Filter an array to have only function values, or an object to have only properties with function values.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/filter-functions",
   "author": {

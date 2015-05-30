@@ -1,6 +1,6 @@
 # filter-functions [![NPM version](https://badge.fury.io/js/filter-functions.svg)](http://badge.fury.io/js/filter-functions)
 
-> Filter an object to have only properties with function values, or an array to have only function values.
+> Filter an array to have only function values, or an object to have only properties with function values.
 
 ## Install
 
